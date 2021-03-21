@@ -1,0 +1,521 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Proyecto
+</name>
+</assembly>
+<members>
+<member name="T:Proyecto.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Proyecto.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Proyecto.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Proyecto.My.Resources.Resources.Login">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Proyecto.databases">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Proyecto.databases.S_DUEÑODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.S_MÉDICODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.S_REPORTEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.AUDITORIASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.CIRUGIASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.CITASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.DUEÑOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.ENFERMEDADESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.ENFERMEDADXRAZADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.ESPECIESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.FECHADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.MEDICINASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.MEDICINAXENFERMEDADDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.MÉDICOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.PACIENTESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.RAZASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.REPORTEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.TEL_DUEÑODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.TEL_MÉDICODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.TURNOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.TURNOXMÉDICODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.USUARIOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.S_DUEÑORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.S_MÉDICORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.S_REPORTERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.AUDITORIASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.CIRUGIASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.CITASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.DUEÑOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.ENFERMEDADESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.ENFERMEDADXRAZARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.ESPECIESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.FECHARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.MEDICINASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.MEDICINAXENFERMEDADRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.MÉDICOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.PACIENTESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.RAZASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.REPORTERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.TEL_DUEÑORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.TEL_MÉDICORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.TURNOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.TURNOXMÉDICORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.USUARIOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto.databases.S_DUEÑORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.S_MÉDICORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.S_REPORTERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.AUDITORIASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.CIRUGIASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.CITASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.DUEÑOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.ENFERMEDADESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.ENFERMEDADXRAZARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.ESPECIESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.FECHARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.MEDICINASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.MEDICINAXENFERMEDADRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.MÉDICOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.PACIENTESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.RAZASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.REPORTERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.TEL_DUEÑORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.TEL_MÉDICORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.TURNOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.TURNOXMÉDICORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databases.USUARIOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.S_DUEÑOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.S_MÉDICOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.S_REPORTETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.AUDITORIASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.CIRUGIASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.CITASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.DUEÑOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.ENFERMEDADESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.ENFERMEDADXRAZATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.ESPECIESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.FECHATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.MEDICINASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.MEDICINAXENFERMEDADTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.MÉDICOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.PACIENTESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.RAZASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.REPORTETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.TEL_DUEÑOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.TEL_MÉDICOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.TURNOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.TURNOXMÉDICOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.USUARIOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Proyecto.databasesTableAdapters.TableAdapterManager.UpdateUpdatedRows(Proyecto.databases,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Proyecto.databasesTableAdapters.TableAdapterManager.UpdateInsertedRows(Proyecto.databases,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Proyecto.databasesTableAdapters.TableAdapterManager.UpdateDeletedRows(Proyecto.databases,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Proyecto.databasesTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Proyecto.databasesTableAdapters.TableAdapterManager.UpdateAll(Proyecto.databases)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Proyecto.databasesTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
